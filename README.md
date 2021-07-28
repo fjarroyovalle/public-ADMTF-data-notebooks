@@ -1,5 +1,7 @@
-# Automatic Diagnosing of Migraines and Trigger Factors
-This repository contain the ***datasets***, ***notebooks*** and ***model*** necessaries to process the data of ADMTF thesis.
+
+
+# public-ADMTF-data-notebooks
+This repository contain the ***datasets***, ***notebooks*** and ***model*** necessaries to process the data of ***ADMTF*** (Automatic Diagnosing of Migraines and Trigger Factors) thesis.
 
 ### Dataset files:
 
